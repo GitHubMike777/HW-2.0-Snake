@@ -12,6 +12,6 @@ EditorBuildSettings:
     path: Assets/Snake/Scenes/lvl2.unity
     guid: 08ecd31eb88a4404e9a28670c8ead9df
   - enabled: 1
-    path: Assets/Snake/Scenes/lvlthree.unity
-    guid: 5ef3407f0d61506468e6e1213ceb4121
+    path: Assets/Snake/Scenes/lvl3.unity
+    guid: d1bfad2567f806349a2570f78e2f865c
   m_configObjects: {}
