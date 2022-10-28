@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Snake/Scenes/lvlone.unity
+    path: Assets/Snake/Scenes/lvl1.unity
     guid: fbd4245c4418a0b49b3465141330982c
   - enabled: 1
-    path: Assets/Snake/Scenes/lvltwo.unity
+    path: Assets/Snake/Scenes/lvl2.unity
     guid: 08ecd31eb88a4404e9a28670c8ead9df
   - enabled: 1
     path: Assets/Snake/Scenes/lvlthree.unity
